@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2555353156429629771
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2555353156429629765}
+  - component: {fileID: 2555353156429629764}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2555353156429629765
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2555353156429629771}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.7560666, y: -1.2006084, z: -0.85449153}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2555353156429629764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2555353156429629771}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea5ed49e478b0da4e8b83fa352da9452, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Pistol Attack
+    clip: {fileID: 8300000, guid: da376e5fa5e39754290bdfa3b75cb905, type: 3}
+    volume: 1
+    source: {fileID: 0}
+  - name: Shotgun Attack
+    clip: {fileID: 8300000, guid: dd989bdb0d61cdd4daa5362542fcaafd, type: 3}
+    volume: 1
+    source: {fileID: 0}
+  - name: Player Hit
+    clip: {fileID: 8300000, guid: 4d5901b6e9dbb1a4ebe716c12048ac3d, type: 3}
+    volume: 1
+    source: {fileID: 0}
+  - name: Player Death
+    clip: {fileID: 8300000, guid: 3df2d27254bf06c449ace591979ad562, type: 3}
+    volume: 1
+    source: {fileID: 0}
+  - name: Enemy Swing
+    clip: {fileID: 8300000, guid: 3fee819523681124f80627dbe6469352, type: 3}
+    volume: 1
+    source: {fileID: 0}
+  - name: Enemy Hit
+    clip: {fileID: 8300000, guid: 672284135714ea2479232468c537397a, type: 3}
+    volume: 1
+    source: {fileID: 0}
+  - name: Speed Boost
+    clip: {fileID: 8300000, guid: ee9bb54bd27e021469d62f816d069a87, type: 3}
+    volume: 1
+    source: {fileID: 0}
+  - name: Kill Boost
+    clip: {fileID: 8300000, guid: 8c79ca158fb38f8408cf227e8f668d11, type: 3}
+    volume: 1
+    source: {fileID: 0}
+  - name: Coin Collect
+    clip: {fileID: 8300000, guid: 9dcd5a7ae6dfbb74d9ce40dd6d326f10, type: 3}
+    volume: 1
+    source: {fileID: 0}
+  audioMixerGroup: {fileID: 24300002, guid: 0037c2bebe8cce743ab982d4fe11108b, type: 2}

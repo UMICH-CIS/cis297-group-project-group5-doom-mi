@@ -1,0 +1,6759 @@
+fileFormatVersion: 2
+guid: 1cfc4055a0c8d5f45b9622a2ab4a2e75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5583666039764542476
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_0
+  - first:
+      213: -7392968944422762532
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_1
+  - first:
+      213: 7833493655148729671
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_2
+  - first:
+      213: -4613715955806219700
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_3
+  - first:
+      213: 8907615290947794265
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_4
+  - first:
+      213: -6977667238669112079
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_5
+  - first:
+      213: 1296529345719358882
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_6
+  - first:
+      213: 3398712966642934194
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_7
+  - first:
+      213: -6078109588893291313
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_8
+  - first:
+      213: -6807973973107518338
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_9
+  - first:
+      213: -1778280750359552866
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_10
+  - first:
+      213: 3000881073026959897
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_11
+  - first:
+      213: -7903164977610628037
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_12
+  - first:
+      213: -6947170943635711847
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_13
+  - first:
+      213: 705383522849781967
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_14
+  - first:
+      213: -6146618237251476182
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_15
+  - first:
+      213: -5125226933310818687
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_16
+  - first:
+      213: 2363417966480819640
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_17
+  - first:
+      213: 4941698899063152451
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_18
+  - first:
+      213: 7172920047076073887
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_19
+  - first:
+      213: -2052244571925595177
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_20
+  - first:
+      213: -696677991292354955
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_21
+  - first:
+      213: 5708036998011198355
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_22
+  - first:
+      213: -1976271101538822671
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_23
+  - first:
+      213: 6574587446172028626
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_24
+  - first:
+      213: -7840507852604639427
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_25
+  - first:
+      213: 2391031143288613647
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_26
+  - first:
+      213: 69541725870067404
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_27
+  - first:
+      213: 2954332677336352389
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_28
+  - first:
+      213: 5752022314742182136
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_29
+  - first:
+      213: -713079981261626518
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_30
+  - first:
+      213: -6798783996556170150
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_31
+  - first:
+      213: 2633980608418889873
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_32
+  - first:
+      213: -8118277223938796666
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_33
+  - first:
+      213: -6112256322856266088
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_34
+  - first:
+      213: 9192558546661503072
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_35
+  - first:
+      213: 1793330598967267501
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_36
+  - first:
+      213: -1204775164112209743
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_37
+  - first:
+      213: -1260836937912901793
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_38
+  - first:
+      213: 7126239166775711003
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_39
+  - first:
+      213: -3013805861661081660
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_40
+  - first:
+      213: 2043205152127610971
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_41
+  - first:
+      213: -703708391746092421
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_42
+  - first:
+      213: 7685771477004292482
+    second: land_0
+  - first:
+      213: -5584864582689534377
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_44
+  - first:
+      213: 8548120685303697524
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_45
+  - first:
+      213: 2427259192280775307
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_46
+  - first:
+      213: -3597643628937876977
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_47
+  - first:
+      213: 4224797501879610887
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_48
+  - first:
+      213: -4137727861366181860
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_49
+  - first:
+      213: -6442820223629890190
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_50
+  - first:
+      213: 2026473798698240762
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_51
+  - first:
+      213: -4716332855964340125
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_52
+  - first:
+      213: 1687671975583887684
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_53
+  - first:
+      213: 5261249384668078259
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_54
+  - first:
+      213: 8449636436489181323
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_55
+  - first:
+      213: 9149454183838363883
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_56
+  - first:
+      213: -4332982153939797064
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_57
+  - first:
+      213: 6025704459843039932
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_58
+  - first:
+      213: 7285247313949542954
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_59
+  - first:
+      213: -1242716738110556275
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_60
+  - first:
+      213: -2207444470717023338
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_61
+  - first:
+      213: -7665522457096847135
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_62
+  - first:
+      213: -6027814187450014265
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_63
+  - first:
+      213: 114403667206909615
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_64
+  - first:
+      213: -287865572604495638
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_65
+  - first:
+      213: -3760323553969847939
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_66
+  - first:
+      213: -1587989446415965844
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_67
+  - first:
+      213: 4542761949322800283
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_68
+  - first:
+      213: 3920196712157369702
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_69
+  - first:
+      213: -5690658658738537641
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_70
+  - first:
+      213: -9035492179781104351
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_71
+  - first:
+      213: 6571117502728218093
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_72
+  - first:
+      213: 1349696167027944299
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_73
+  - first:
+      213: 2208955189278635422
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_74
+  - first:
+      213: -1806666658164602820
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_75
+  - first:
+      213: -3996740212691951764
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_76
+  - first:
+      213: 7023821833666199974
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_77
+  - first:
+      213: -432426357579199343
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_78
+  - first:
+      213: 1599053388735199515
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_79
+  - first:
+      213: -3504550626059222417
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_80
+  - first:
+      213: -7320417463101825662
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_81
+  - first:
+      213: 8196228948389550250
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_82
+  - first:
+      213: -8592234677247199221
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_83
+  - first:
+      213: 8333155368391540119
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_84
+  - first:
+      213: -4781744631754905301
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_85
+  - first:
+      213: 9078489904106861282
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_86
+  - first:
+      213: -5076926184438218321
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_87
+  - first:
+      213: 2743735188178908569
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_88
+  - first:
+      213: 8471192671014018302
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_89
+  - first:
+      213: 1409210155743714967
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_90
+  - first:
+      213: -1076011512436821566
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_91
+  - first:
+      213: 5174026681573259793
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_92
+  - first:
+      213: -8507980235471816652
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_93
+  - first:
+      213: 4763587388184566019
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_94
+  - first:
+      213: 3179875670030092492
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_95
+  - first:
+      213: 4856940435049761488
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_96
+  - first:
+      213: -6077195231927112376
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_97
+  - first:
+      213: -8929364485673338980
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_98
+  - first:
+      213: 678608956696248477
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_99
+  - first:
+      213: 8423812608516304020
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_100
+  - first:
+      213: 5639497065958426841
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_101
+  - first:
+      213: 1375445588452749914
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_102
+  - first:
+      213: 3375400094743796295
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_103
+  - first:
+      213: 6096768265474745222
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_104
+  - first:
+      213: -7701510848596981699
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_105
+  - first:
+      213: -932076373525318194
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_106
+  - first:
+      213: -9214529970614240722
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_107
+  - first:
+      213: -7854261647062339089
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_108
+  - first:
+      213: -1545190655426942701
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_109
+  - first:
+      213: -1418735287758804245
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_110
+  - first:
+      213: 1092597680779841695
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_111
+  - first:
+      213: -5085834612796288719
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_112
+  - first:
+      213: -4823897481431218946
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_113
+  - first:
+      213: -7087933312327055825
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_114
+  - first:
+      213: -5901117948019647439
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_115
+  - first:
+      213: -6325482744576188560
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_116
+  - first:
+      213: 5248249072334725157
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_117
+  - first:
+      213: -3885943379071492650
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_118
+  - first:
+      213: -4465452184118190010
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_119
+  - first:
+      213: -4232761478436761854
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_120
+  - first:
+      213: 4182337748056343393
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_121
+  - first:
+      213: -4001228842105469752
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_122
+  - first:
+      213: -6998321316467721857
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_123
+  - first:
+      213: 7316072666670872807
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_124
+  - first:
+      213: 1729810114727434476
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_125
+  - first:
+      213: -593414556406340746
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_126
+  - first:
+      213: -1968328613820721090
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_127
+  - first:
+      213: 6317115479123684374
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_128
+  - first:
+      213: -4581002339952616757
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_129
+  - first:
+      213: 4023939300638946089
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_130
+  - first:
+      213: 3062050205987295148
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_131
+  - first:
+      213: -8549087718144301675
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_132
+  - first:
+      213: 229859907004261219
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_133
+  - first:
+      213: 4974027163982095477
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_134
+  - first:
+      213: -7838622062014388949
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_135
+  - first:
+      213: 7954775379609019513
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_136
+  - first:
+      213: 4679527206563222828
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_137
+  - first:
+      213: -7611831440551059152
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_138
+  - first:
+      213: -5444794120421113341
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_139
+  - first:
+      213: -199779420643319423
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_140
+  - first:
+      213: 5769708171506669299
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_141
+  - first:
+      213: -5442318402153985518
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_142
+  - first:
+      213: -259075261867647982
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_143
+  - first:
+      213: 3007144749832278905
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_144
+  - first:
+      213: -3950716105002462631
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_145
+  - first:
+      213: -4831374721002832013
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_146
+  - first:
+      213: -2305464321266081348
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_147
+  - first:
+      213: 7097683642938562934
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_148
+  - first:
+      213: -8364956268190661441
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_149
+  - first:
+      213: 853171024514702974
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_150
+  - first:
+      213: -8311568578148903950
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_151
+  - first:
+      213: 8943803326419579128
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_152
+  - first:
+      213: 269041287643183410
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_153
+  - first:
+      213: -3986754306254025020
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_154
+  - first:
+      213: 7510194196550439035
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_155
+  - first:
+      213: -5305602476191583718
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_156
+  - first:
+      213: -3301685268901154449
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_157
+  - first:
+      213: 500864487973671688
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_158
+  - first:
+      213: -1742394643465155918
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_159
+  - first:
+      213: 8795609760423928578
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_160
+  - first:
+      213: 5405707492666307497
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_161
+  - first:
+      213: 6897824841171667111
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_162
+  - first:
+      213: -6276696576518407868
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_163
+  - first:
+      213: 3235201754408075653
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_164
+  - first:
+      213: -787169891272282342
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_165
+  - first:
+      213: -8701629165288995531
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_166
+  - first:
+      213: -7959714716512835324
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_167
+  - first:
+      213: -8821932610933782953
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_168
+  - first:
+      213: -197444170871248854
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_169
+  - first:
+      213: 3851498546358797345
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_170
+  - first:
+      213: 207989638641020769
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_171
+  - first:
+      213: 1236441211751837409
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_172
+  - first:
+      213: 3042443269140346654
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_173
+  - first:
+      213: -6370046668049002985
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_174
+  - first:
+      213: 3717196775538369055
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_175
+  - first:
+      213: 5657694233361359285
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_176
+  - first:
+      213: -7748485120448241931
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_177
+  - first:
+      213: -3305376334711782220
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_178
+  - first:
+      213: -1624356808986725093
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_179
+  - first:
+      213: -5383669875339820413
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_180
+  - first:
+      213: -3202715595158301367
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_181
+  - first:
+      213: -8171363175797713316
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_182
+  - first:
+      213: 488910418205390757
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_183
+  - first:
+      213: -3219666802578831088
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_184
+  - first:
+      213: 6239413512882805246
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_185
+  - first:
+      213: 8361467910368753678
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_186
+  - first:
+      213: 4700496510260583691
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_187
+  - first:
+      213: 6221505263100366309
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_188
+  - first:
+      213: 5239459127437400276
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_189
+  - first:
+      213: -5805349282594952375
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_190
+  - first:
+      213: 2867064492409552182
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_191
+  - first:
+      213: 3482436714688446876
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_192
+  - first:
+      213: -4921292698429362992
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_193
+  - first:
+      213: 4116651063332139374
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_194
+  - first:
+      213: -6357213764560172731
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_195
+  - first:
+      213: 5709804864465894559
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_196
+  - first:
+      213: -3526351112916786164
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_197
+  - first:
+      213: 4849581402232718347
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_198
+  - first:
+      213: 1170417903088745277
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_199
+  - first:
+      213: -1534668846064102894
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_200
+  - first:
+      213: -2941515400398409530
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_201
+  - first:
+      213: -2671974280549734469
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_202
+  - first:
+      213: -2718351339851247105
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_203
+  - first:
+      213: -6929968438623666102
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_204
+  - first:
+      213: 734562115063844446
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_205
+  - first:
+      213: -2237365101356009728
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_206
+  - first:
+      213: 2726078097738338511
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_207
+  - first:
+      213: 2521117107312529094
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_208
+  - first:
+      213: 96149023182824011
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_209
+  - first:
+      213: 2246979427936084644
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_210
+  - first:
+      213: 5043976838536799188
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_211
+  - first:
+      213: 1788011230763455338
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_212
+  - first:
+      213: 3050802333120232748
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_213
+  - first:
+      213: -4023043056574012
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_214
+  - first:
+      213: 1390738222308074352
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_215
+  - first:
+      213: 155552024198517515
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_216
+  - first:
+      213: 1358334799161278143
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_217
+  - first:
+      213: 7428079419928749858
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_218
+  - first:
+      213: -4925983399395116929
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_219
+  - first:
+      213: 6142678715811774879
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_220
+  - first:
+      213: -2600473596167140591
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_221
+  - first:
+      213: -2848658847099342659
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_222
+  - first:
+      213: 8124493615571716904
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_223
+  - first:
+      213: -2131841924845036802
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_224
+  - first:
+      213: -4544157725792195383
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_225
+  - first:
+      213: -336554440411467562
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_226
+  - first:
+      213: -3168783775337879925
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_227
+  - first:
+      213: 7604967400064666129
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_228
+  - first:
+      213: -1454473820656100495
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_229
+  - first:
+      213: 5101377430382345369
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_230
+  - first:
+      213: 4078217759568403494
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_231
+  - first:
+      213: -4377287049642295119
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_232
+  - first:
+      213: -5681329253335222420
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_233
+  - first:
+      213: 5296437081720108347
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_234
+  - first:
+      213: -7586390733471076861
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_235
+  - first:
+      213: -4308226634977883088
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_236
+  - first:
+      213: 8689935674685274038
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_237
+  - first:
+      213: -2487290432691183976
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_238
+  - first:
+      213: -7205563251298430353
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_239
+  - first:
+      213: -5177560125758426273
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_240
+  - first:
+      213: 6095612265304590001
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_241
+  - first:
+      213: 139727767163352812
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_242
+  - first:
+      213: -1090076108137368340
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_243
+  - first:
+      213: -9013419174133685993
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_244
+  - first:
+      213: -780777655093649929
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_245
+  - first:
+      213: 16930323745341287
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_246
+  - first:
+      213: 1105334971443576185
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_247
+  - first:
+      213: -5235852624688291640
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_248
+  - first:
+      213: -181144243836253128
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_249
+  - first:
+      213: -2796474513154587703
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_250
+  - first:
+      213: 2155315757906727721
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_251
+  - first:
+      213: 4597768246357739927
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_252
+  - first:
+      213: -5902272274246017216
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_253
+  - first:
+      213: -4282638778658569948
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_254
+  - first:
+      213: -2116135421867452319
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_255
+  - first:
+      213: 7558478793715550897
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_256
+  - first:
+      213: 7246287229886804094
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_257
+  - first:
+      213: -5877034135638662617
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_258
+  - first:
+      213: -2218928790164988306
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_259
+  - first:
+      213: -6046137258066664564
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_260
+  - first:
+      213: 839922848461104250
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_261
+  - first:
+      213: 7156897722704113178
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_262
+  - first:
+      213: 4515864589479611739
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_263
+  - first:
+      213: -9198231407447499559
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_264
+  - first:
+      213: 6815110383007568420
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_265
+  - first:
+      213: 2650194102279169898
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_266
+  - first:
+      213: -2394221618503832777
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_267
+  - first:
+      213: 3289475438404851248
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_268
+  - first:
+      213: 1415023716162108225
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_269
+  - first:
+      213: -3213519200475565020
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_270
+  - first:
+      213: 8337913268982183047
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_271
+  - first:
+      213: -4069661112249657424
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_272
+  - first:
+      213: -8268420356898171051
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_273
+  - first:
+      213: -2983702923275803833
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_274
+  - first:
+      213: 7791647890241451543
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_275
+  - first:
+      213: 1548924167120791611
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_276
+  - first:
+      213: 4018074224661003100
+    second: Cowboys_and_Pirates_V2_Tilemap-Sheet_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb1c630255d282b0800000000000000
+      internalID: -5583666039764542476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7cf282ae5e66990800000000000000
+      internalID: -7392968944422762532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7459a69c9f826bc60800000000000000
+      internalID: 7833493655148729671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c425e9f58c9c8ffb0800000000000000
+      internalID: -4613715955806219700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955f7cc99e43e9b70800000000000000
+      internalID: 8907615290947794265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc2f3e9d985a2f90800000000000000
+      internalID: -6977667238669112079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5d87412923ef110800000000000000
+      internalID: 1296529345719358882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1244e9f67aa2f20800000000000000
+      internalID: 3398712966642934194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccae18388736aba0800000000000000
+      internalID: -6078109588893291313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7452dcddb73581a0800000000000000
+      internalID: -6807973973107518338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c57eb44174257e0800000000000000
+      internalID: -1778280750359552866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a07f2cf6545a920800000000000000
+      internalID: 3000881073026959897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34e53c5351525290800000000000000
+      internalID: -7903164977610628037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9989dae95d0b69f90800000000000000
+      internalID: -6947170943635711847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8ffd5a3960ac900800000000000000
+      internalID: 705383522849781967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2520b68743d2baa0800000000000000
+      internalID: -6146618237251476182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1867ebe32498fd8b0800000000000000
+      internalID: -5125226933310818687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b58ddb5e1c8cc020800000000000000
+      internalID: 2363417966480819640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f199967f0749440800000000000000
+      internalID: 4941698899063152451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f916f3077c45b8360800000000000000
+      internalID: 7172920047076073887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbb6226f66f483e0800000000000000
+      internalID: -2052244571925595177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ebf2ede07e456f0800000000000000
+      internalID: -696677991292354955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b9e3f3865073f40800000000000000
+      internalID: 5708036998011198355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f598e467efd294e0800000000000000
+      internalID: -1976271101538822671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de83d9d270ad3b50800000000000000
+      internalID: 6574587446172028626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37f6da16abe03390800000000000000
+      internalID: -7840507852604639427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b2d961826ae2120800000000000000
+      internalID: 2391031143288613647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce8d8bc4df07f000800000000000000
+      internalID: 69541725870067404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58646f4dae5eff820800000000000000
+      internalID: 2954332677336352389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0f35ad1d943df40800000000000000
+      internalID: 5752022314742182136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63657cf881aa16f0800000000000000
+      internalID: -713079981261626518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ca8a40afdd5a1a0800000000000000
+      internalID: -6798783996556170150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190431e6867cd8420800000000000000
+      internalID: 2633980608418889873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683dbf690e5165f80800000000000000
+      internalID: -8118277223938796666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896540c2247ec2ba0800000000000000
+      internalID: -6112256322856266088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0607dbe3b47829f70800000000000000
+      internalID: 9192558546661503072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da05844ada033e810800000000000000
+      internalID: 1793330598967267501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8f0e41f57c74fe0800000000000000
+      internalID: -1204775164112209743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f92043c7b908ee0800000000000000
+      internalID: -1260836937912901793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15542804cc75e260800000000000000
+      internalID: 7126239166775711003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf73b1698fcc26d0800000000000000
+      internalID: -3013805861661081660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5070dfa24cea5c10800000000000000
+      internalID: 2043205152127610971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72438432fceb36f0800000000000000
+      internalID: -703708391746092421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e412e70439e72b0800000000000000
+      internalID: -5584864582689534377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47012b0397601a670800000000000000
+      internalID: 8548120685303697524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a72bd006b5fa120800000000000000
+      internalID: 2427259192280775307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ae5bc3e2a921ec0800000000000000
+      internalID: -3597643628937876977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eed7ba1fe71aa30800000000000000
+      internalID: 4224797501879610887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c103806ce66d396c0800000000000000
+      internalID: -4137727861366181860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d66d264218696a0800000000000000
+      internalID: -6442820223629890190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa8b06ee2b7f1c10800000000000000
+      internalID: 2026473798698240762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360fdb571483c8eb0800000000000000
+      internalID: -4716332855964340125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4413f0a58b0db6710800000000000000
+      internalID: 1687671975583887684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b022e7a076b30940800000000000000
+      internalID: 5261249384668078259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8892262293234570800000000000000
+      internalID: 8449636436489181323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0b564ba1469fe70800000000000000
+      internalID: 9149454183838363883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbbf4820b72ed3c0800000000000000
+      internalID: -4332982153939797064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb27e6ad74a9f9350800000000000000
+      internalID: 6025704459843039932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ac4d845d56a1560800000000000000
+      internalID: 7285247313949542954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87fc7cf5bbf0cee0800000000000000
+      internalID: -1242716738110556275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bf28d03f49d51e0800000000000000
+      internalID: -2207444470717023338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e086fe50f79e9590800000000000000
+      internalID: -7665522457096847135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c56bf8eee6e85ca0800000000000000
+      internalID: -6027814187450014265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeaed87781769100800000000000000
+      internalID: 114403667206909615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae838d179cb410cf0800000000000000
+      internalID: -287865572604495638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71c71596a5a0dbc0800000000000000
+      internalID: -3760323553969847939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61ae43130456f9e0800000000000000
+      internalID: -1587989446415965844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ceb80ace12b0f30800000000000000
+      internalID: 4542761949322800283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6655bcdb326576630800000000000000
+      internalID: 3920196712157369702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b73eba918b601b0800000000000000
+      internalID: -5690658658738537641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dc35d0cbb7b9280800000000000000
+      internalID: -9035492179781104351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5a77fad8c413b50800000000000000
+      internalID: 6571117502728218093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b286e43851bb210800000000000000
+      internalID: 1349696167027944299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9575b58a09c7ae10800000000000000
+      internalID: 2208955189278635422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c388e8c1f3e6de6e0800000000000000
+      internalID: -1806666658164602820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f1af2c3f9b888c0800000000000000
+      internalID: -3996740212691951764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a18e417eb0a97160800000000000000
+      internalID: 7023821833666199974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cc9f4d486bff9f0800000000000000
+      internalID: -432426357579199343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19327cb59af03610800000000000000
+      internalID: 1599053388735199515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f620e5406c55d5fc0800000000000000
+      internalID: -3504550626059222417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ddf304a17a86a90800000000000000
+      internalID: -7320417463101825662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa858869dcadeb170800000000000000
+      internalID: 8196228948389550250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0833eba51042c880800000000000000
+      internalID: -8592234677247199221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dfd1718a055a370800000000000000
+      internalID: 8333155368391540119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b292e999794d3adb0800000000000000
+      internalID: -4781744631754905301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e27247c7764dfd70800000000000000
+      internalID: 9078489904106861282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa14ea1b8822b89b0800000000000000
+      internalID: -5076926184438218321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995b421ed94b31620800000000000000
+      internalID: 2743735188178908569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcdeab1ad8bf8570800000000000000
+      internalID: 8471192671014018302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e1afa9b258e8310800000000000000
+      internalID: 1409210155743714967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1f8fafa3d3111f0800000000000000
+      internalID: -1076011512436821566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a319d8ad5ddc740800000000000000
+      internalID: 5174026681573259793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43878a49d059de980800000000000000
+      internalID: -8507980235471816652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3099541bd79ab1240800000000000000
+      internalID: 4763587388184566019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc80d0ef210312c20800000000000000
+      internalID: 3179875670030092492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da4f5ea791576340800000000000000
+      internalID: 4856940435049761488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d694a822779aba0800000000000000
+      internalID: -6077195231927112376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97b3716f46841480800000000000000
+      internalID: -8929364485673338980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90474d2047ea6900800000000000000
+      internalID: 678608956696248477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c2219afe467e470800000000000000
+      internalID: 8423812608516304020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d84f40c3b4834e40800000000000000
+      internalID: 5639497065958426841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52ba9ba970961310800000000000000
+      internalID: 1375445588452749914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a1606a084d7de20800000000000000
+      internalID: 3375400094743796295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6832f757f621c9450800000000000000
+      internalID: 6096768265474745222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d384f8300bcbe1590800000000000000
+      internalID: -7701510848596981699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec53d740a799013f0800000000000000
+      internalID: -932076373525318194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2af859ffc96f1080800000000000000
+      internalID: -9214529970614240722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1ffd945ae000390800000000000000
+      internalID: -7854261647062339089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319260129416e8ae0800000000000000
+      internalID: -1545190655426942701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea23d6c5c3af4ce0800000000000000
+      internalID: -1418735287758804245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f905c454dcfa92f00800000000000000
+      internalID: 1092597680779841695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13114e59d5c7b69b0800000000000000
+      internalID: -5085834612796288719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4046a7cc21e0db0800000000000000
+      internalID: -4823897481431218946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f268617b43a92ad90800000000000000
+      internalID: -7087933312327055825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c5b92ed740b1ea0800000000000000
+      internalID: -5901117948019647439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f5ca825fe5738a0800000000000000
+      internalID: -6325482744576188560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520e84199b685d840800000000000000
+      internalID: 5248249072334725157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd9929d51b521ac0800000000000000
+      internalID: -3885943379071492650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640a424c5e68702c0800000000000000
+      internalID: -4465452184118190010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fc1da8cd53245c0800000000000000
+      internalID: -4232761478436761854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1630b9bd506aa0a30800000000000000
+      internalID: 4182337748056343393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c481494197c878c0800000000000000
+      internalID: -4001228842105469752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79b5e367d7f0ee90800000000000000
+      internalID: -6998321316467721857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8bcdff359e78560800000000000000
+      internalID: 7316072666670872807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8d4396225810810800000000000000
+      internalID: 1729810114727434476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673aad0ea94c3c7f0800000000000000
+      internalID: -593414556406340746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e389afbed871fa4e0800000000000000
+      internalID: -1968328613820721090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ce94a0f07eaa750800000000000000
+      internalID: 6317115479123684374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca14eb94a20d60c0800000000000000
+      internalID: -4581002339952616757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92371546977e7d730800000000000000
+      internalID: 4023939300638946089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafc84c50769e7a20800000000000000
+      internalID: 3062050205987295148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595aa5ee30a8b5980800000000000000
+      internalID: -8549087718144301675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363e7191e50a03300800000000000000
+      internalID: 229859907004261219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574eb442a5b470540800000000000000
+      internalID: 4974027163982095477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25a711f3ce973390800000000000000
+      internalID: -7838622062014388949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9746e91cf0a056e60800000000000000
+      internalID: 7954775379609019513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c251aff733501f040800000000000000
+      internalID: 4679527206563222828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031edcf42a75d5690800000000000000
+      internalID: -7611831440551059152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3020a2168943074b0800000000000000
+      internalID: -5444794120421113341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1812f17ecad3a3df0800000000000000
+      internalID: -199779420643319423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6d254430f121050800000000000000
+      internalID: 5769708171506669299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a4a057f300974b0800000000000000
+      internalID: -5442318402153985518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c99460c64976cf0800000000000000
+      internalID: -259075261867647982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9731fe9a7368bb920800000000000000
+      internalID: 3007144749832278905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952d9e062ac3c29c0800000000000000
+      internalID: -3950716105002462631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ff2d9f94283fcb0800000000000000
+      internalID: -4831374721002832013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb129982a685100e0800000000000000
+      internalID: -2305464321266081348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67914790ba9008260800000000000000
+      internalID: 7097683642938562934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb481d0f794b9eb80800000000000000
+      internalID: -8364956268190661441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7edad8c68217db00800000000000000
+      internalID: 853171024514702974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3d22d2a6067ac80800000000000000
+      internalID: -8311568578148903950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f032343db5ce1c70800000000000000
+      internalID: 8943803326419579128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239b2eb20a3dbb300800000000000000
+      internalID: 269041287643183410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce48f8c4143ca8c0800000000000000
+      internalID: -3986754306254025020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70d69fb4d1993860800000000000000
+      internalID: 7510194196550439035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12fa2f78a6be56b0800000000000000
+      internalID: -5305602476191583718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61b103bdbe0e22d0800000000000000
+      internalID: -3301685268901154449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_158
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803574e199d63f600800000000000000
+      internalID: 500864487973671688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_159
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba47b9ad45c1d7e0800000000000000
+      internalID: -1742394643465155918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_160
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203e609d978401a70800000000000000
+      internalID: 8795609760423928578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3fa0ce25ee40b40800000000000000
+      internalID: 5405707492666307497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_162
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a807e4952ff9bf50800000000000000
+      internalID: 6897824841171667111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_163
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449b5b118b1b4e8a0800000000000000
+      internalID: -6276696576518407868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_164
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581c634dadeb5ec20800000000000000
+      internalID: 3235201754408075653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_165
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f25dc87296315f0800000000000000
+      internalID: -787169891272282342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_166
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53545cb906a9d3780800000000000000
+      internalID: -8701629165288995531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_167
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409adc043a9698190800000000000000
+      internalID: -7959714716512835324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7568bdce703329580800000000000000
+      internalID: -8821932610933782953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_169
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a286f3c9299824df0800000000000000
+      internalID: -197444170871248854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_170
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12446a49585437530800000000000000
+      internalID: 3851498546358797345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_171
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fe820797de2e200800000000000000
+      internalID: 207989638641020769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_172
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee2f1c2bb8b82110800000000000000
+      internalID: 1236441211751837409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_173
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e177362a80ee83a20800000000000000
+      internalID: 3042443269140346654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_174
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e474c2e4c0997a0800000000000000
+      internalID: -6370046668049002985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_175
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f122136d5c2269330800000000000000
+      internalID: 3717196775538369055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_176
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1a743fdea248e40800000000000000
+      internalID: 5657694233361359285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_177
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe584016d9d77490800000000000000
+      internalID: -7748485120448241931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_178
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b485887cb1f022d0800000000000000
+      internalID: -3305376334711782220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_179
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15fbd3a6102579e0800000000000000
+      internalID: -1624356808986725093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_180
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3820664b5cc5945b0800000000000000
+      internalID: -5383669875339820413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_181
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9455cf9822bad83d0800000000000000
+      internalID: -3202715595158301367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_182
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c569edf3c7c799e80800000000000000
+      internalID: -8171363175797713316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_183
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7be1c5f65f8c600800000000000000
+      internalID: 488910418205390757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_184
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019cb210a127153d0800000000000000
+      internalID: -3219666802578831088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_185
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9d62a3889d69650800000000000000
+      internalID: 6239413512882805246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_186
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e087b5673c6e90470800000000000000
+      internalID: 8361467910368753678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_187
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d9b0afba48b3140800000000000000
+      internalID: 4700496510260583691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_188
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed0257e21a375650800000000000000
+      internalID: 6221505263100366309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_189
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8951a015c46b840800000000000000
+      internalID: 5239459127437400276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_190
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bebd5e5914f6fa0800000000000000
+      internalID: -5805349282594952375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_191
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63df43a27fbd9c720800000000000000
+      internalID: 2867064492409552182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_192
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9188c3cdb9145030800000000000000
+      internalID: 3482436714688446876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_193
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dce46a6d5e04bbb0800000000000000
+      internalID: -4921292698429362992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_194
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e617526c458412930800000000000000
+      internalID: 4116651063332139374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_195
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549ca2a53c3a6c7a0800000000000000
+      internalID: -6357213764560172731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c794bb54d4d3f40800000000000000
+      internalID: 5709804864465894559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_197
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04aa41a852ef0fc0800000000000000
+      internalID: -3526351112916786164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_198
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b040c65579c2d4340800000000000000
+      internalID: 4849581402232718347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_199
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bbc58b1e82e3010800000000000000
+      internalID: 1170417903088745277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_200
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2129d76c0d2c3bae0800000000000000
+      internalID: -1534668846064102894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_201
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c079e10453ad27d0800000000000000
+      internalID: -2941515400398409530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_202
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb76ade6c8d3bead0800000000000000
+      internalID: -2671974280549734469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_203
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1957ddbd9764ad0800000000000000
+      internalID: -2718351339851247105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_204
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a400b2feb6ec3df90800000000000000
+      internalID: -6929968438623666102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_205
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e07dd0a50b13a00800000000000000
+      internalID: 734562115063844446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_206
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007b1dc5b4843f0e0800000000000000
+      internalID: -2237365101356009728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_207
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc09aa52699f4d520800000000000000
+      internalID: 2726078097738338511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_208
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce0682d6aeccf220800000000000000
+      internalID: 2521117107312529094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_209
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b422054f607955100800000000000000
+      internalID: 96149023182824011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_210
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2adbb72efde2f10800000000000000
+      internalID: 2246979427936084644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_211
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3a844e53ecff540800000000000000
+      internalID: 5043976838536799188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_212
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a639018bdba40d810800000000000000
+      internalID: 1788011230763455338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_213
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d7091ee80a65a20800000000000000
+      internalID: 3050802333120232748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_214
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c162bb4015b1fff0800000000000000
+      internalID: -4023043056574012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_215
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0732b347b05ec4310800000000000000
+      internalID: 1390738222308074352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_216
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03127aedb1a82200800000000000000
+      internalID: 155552024198517515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_217
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe3f069d46c9d210800000000000000
+      internalID: 1358334799161278143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_218
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2272e3470e6d51760800000000000000
+      internalID: 7428079419928749858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_219
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78359d723463abb0800000000000000
+      internalID: -4925983399395116929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_220
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9140592fbd2f3550800000000000000
+      internalID: 6142678715811774879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_221
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bccacca0349ebd0800000000000000
+      internalID: -2600473596167140591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_222
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0be541fd78778d0800000000000000
+      internalID: -2848658847099342659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_223
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bc410e5efffb070800000000000000
+      internalID: 8124493615571716904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa9358701d2a62e0800000000000000
+      internalID: -2131841924845036802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_225
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc2fc6df98efe0c0800000000000000
+      internalID: -4544157725792195383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_226
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0b1b30581545bf0800000000000000
+      internalID: -336554440411467562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_227
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86e6fcf1f73604d0800000000000000
+      internalID: -3168783775337879925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_228
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ac749be854a8960800000000000000
+      internalID: 7604967400064666129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_229
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b10b824cba0dbe0800000000000000
+      internalID: -1454473820656100495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_230
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c7223aebbbbc640800000000000000
+      internalID: 5101377430382345369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_231
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c93cbe17db89830800000000000000
+      internalID: 4078217759568403494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_232
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b04726ce90c043c0800000000000000
+      internalID: -4377287049642295119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_233
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c673be2252dd721b0800000000000000
+      internalID: -5681329253335222420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_234
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35322fc679b08940800000000000000
+      internalID: 5296437081720108347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_235
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e242482d9b7b690800000000000000
+      internalID: -7586390733471076861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_236
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c444293ba1634c0800000000000000
+      internalID: -4308226634977883088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_237
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b73c92747ad89870800000000000000
+      internalID: 8689935674685274038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_238
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ed63a978e5b7dd0800000000000000
+      internalID: -2487290432691183976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_239
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f629fbf4662b00c90800000000000000
+      internalID: -7205563251298430353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_240
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5331fc5f7c9528b0800000000000000
+      internalID: -5177560125758426273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_241
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b68ef13f07f79450800000000000000
+      internalID: 6095612265304590001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_242
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6b707f9a960f100800000000000000
+      internalID: 139727767163352812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_243
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4f45c1e854fd0f0800000000000000
+      internalID: -1090076108137368340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_244
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711211a2407e9e280800000000000000
+      internalID: -9013419174133685993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_245
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd94930cde1a25f0800000000000000
+      internalID: -780777655093649929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_246
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ff5cc2a062c3000800000000000000
+      internalID: 16930323745341287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_247
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97df5badc40f65f00800000000000000
+      internalID: 1105334971443576185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_248
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0682157c38657b0800000000000000
+      internalID: -5235852624688291640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_249
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c880d15427c7df0800000000000000
+      internalID: -181144243836253128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_250
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3ccf32f3de039d0800000000000000
+      internalID: -2796474513154587703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_251
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92315d0334839ed10800000000000000
+      internalID: 2155315757906727721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79949bb2cdd8ecf30800000000000000
+      internalID: 4597768246357739927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_253
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fdded53aae61ea0800000000000000
+      internalID: -5902272274246017216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_254
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4214eb0a8b20194c0800000000000000
+      internalID: -4282638778658569948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_255
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16818faab0af1a2e0800000000000000
+      internalID: -2116135421867452319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_256
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba0db59a6c15e860800000000000000
+      internalID: 7558478793715550897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_257
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e703ad5d7dbff8460800000000000000
+      internalID: 7246287229886804094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_258
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722a96c6794907ea0800000000000000
+      internalID: -5877034135638662617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_259
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e14509508c431e0800000000000000
+      internalID: -2218928790164988306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_260
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83aea5923ec71ca0800000000000000
+      internalID: -6046137258066664564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_261
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74224d616108ab00800000000000000
+      internalID: 839922848461104250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_262
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ea4975f88625360800000000000000
+      internalID: 7156897722704113178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_263
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d82b50be29bae30800000000000000
+      internalID: 4515864589479611739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_264
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc104de441595080800000000000000
+      internalID: -9198231407447499559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_265
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4221e3c09c2249e50800000000000000
+      internalID: 6815110383007568420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_266
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a676f24ae7167c420800000000000000
+      internalID: 2650194102279169898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_267
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ba4838f1406ced0800000000000000
+      internalID: -2394221618503832777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_268
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0365e7b9b7096ad20800000000000000
+      internalID: 3289475438404851248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_269
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b789e929c23a310800000000000000
+      internalID: 1415023716162108225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_270
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424b1c820594763d0800000000000000
+      internalID: -3213519200475565020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_271
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784f2b521f736b370800000000000000
+      internalID: 8337913268982183047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_272
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b75328c7c8a587c0800000000000000
+      internalID: -4069661112249657424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_273
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557d97d4e7ba04d80800000000000000
+      internalID: -8268420356898171051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_274
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743e9d6eff1c796d0800000000000000
+      internalID: -2983702923275803833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_275
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71673c8697e712c60800000000000000
+      internalID: 7791647890241451543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_276
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38a04dc252ee7510800000000000000
+      internalID: 1548924167120791611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboys_and_Pirates_V2_Tilemap-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b721af73113c730800000000000000
+      internalID: 4018074224661003100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
